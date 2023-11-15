@@ -102,9 +102,10 @@ select{
         width: 300px;
     }
     select {
-        margin: 14px 8px;
+        margin: 10px 15px;
         background-position-x: calc(100% - 5px);
         background-position-y: 17px;
+        width: 280px;
         
 
     }
